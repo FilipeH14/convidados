@@ -9,7 +9,7 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.myapplication.databinding.FragmentAllGuestsBinding
 
-class HomeFragment : Fragment() {
+class AllGuestFragment : Fragment() {
 
     private var _binding: FragmentAllGuestsBinding? = null
 
